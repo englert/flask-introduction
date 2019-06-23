@@ -3,11 +3,11 @@ Introduction to Flaskdone by rmotr.com in  [Advanced Python Programming course](
 
 
 #### git clone https://github.com/englert/flask-introduction.git
-<br>
+
 ## Virtuális környezet létrehozása:
-<br>
+
 #### sudo apt install python3-venv
-<br>
+
 #### python3 -m venv flask-introduction
 <br>
 #### source flask-introduction/bin/activate
