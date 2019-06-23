@@ -2,7 +2,7 @@
 Introduction to Flaskdone by rmotr.com in  [Advanced Python Programming course](https://rmotr.com/advanced-python-programming).
 
 
-git clone https://github.com/englert/flask-introduction.git flask-work
+git clone https://github.com/englert/flask-introduction.git
 <br>
 Virtuális környezet létrehozása:
 <br>
