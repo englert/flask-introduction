@@ -13,4 +13,7 @@ python3 -m venv flask-introduction
 source flask-introduction/bin/activate
 <br>
 pip3 install flask
-
+<br>
+cd flask-introduction
+<br>
+pip3 install -r requirements.txt
