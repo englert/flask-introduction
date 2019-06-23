@@ -8,9 +8,9 @@ Virtuális környezet létrehozása:
 <br>
 sudo apt install python3-venv
 <br>
-python3 -m venv flask-work
+python3 -m venv flask-introduction
 <br>
-source flask-work/bin/activate
+source flask-introduction/bin/activate
 <br>
 pip3 install flask
 
