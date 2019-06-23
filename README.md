@@ -2,18 +2,21 @@
 Introduction to Flaskdone by rmotr.com in  [Advanced Python Programming course](https://rmotr.com/advanced-python-programming).
 
 
-git clone https://github.com/englert/flask-introduction.git
+#### git clone https://github.com/englert/flask-introduction.git
 <br>
-Virtuális környezet létrehozása:
+## Virtuális környezet létrehozása:
 <br>
-sudo apt install python3-venv
+#### sudo apt install python3-venv
 <br>
-python3 -m venv flask-introduction
+#### python3 -m venv flask-introduction
 <br>
-source flask-introduction/bin/activate
+#### source flask-introduction/bin/activate
 <br>
-pip3 install flask
+#### pip3 install flask
 <br>
-cd flask-introduction
+#### cd flask-introduction
 <br>
-pip3 install -r requirements.txt
+#### pip3 install -r requirements.txt
+
+#### python3 flask_introduction/run_app.py
+
