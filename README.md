@@ -1,7 +1,8 @@
-# **Flask alapok**
+# **A Flask használatának alapjai**
 Introduction to Flaskdone by rmotr.com in  [Advanced Python Programming course](https://rmotr.com/advanced-python-programming).
 
-git clone 
+
+git clone https://github.com/englert/flask-introduction.git flask
 Virtuális környezet létrehozása:
 sudo apt install python3-venv
 
