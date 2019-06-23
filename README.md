@@ -6,8 +6,7 @@ Introduction to Flaskdone by rmotr.com in  [Advanced Python Programming course](
 
 ## Virtuális környezet létrehozása:
 
-#### sudo apt install python3-venv
-
+##### sudo apt install python3-venv
 #### python3 -m venv flask-introduction
 <br>
 #### source flask-introduction/bin/activate
